@@ -7,7 +7,6 @@ Bu uygulama, kullanıcıların görev oluşturabileceği, açıklama ekleyebilec
 - Görev oluşturma
 - Görev düzenleme
 - Açıklama ekleme (Modal)
-- Görev tamamlama
 - Görev silme
 
 ## 🛠 Kullanılan Teknolojiler
